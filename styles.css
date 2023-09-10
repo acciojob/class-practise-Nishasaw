@@ -1,8 +1,6 @@
 /*  your css code here. If applicable */
-
-.selector-paragraph{
-	font color: #00f;
-	background color: #eee;
-	font family: Arial;
-	font size: 20px;
-}
+.selected-paragraph {
+    color: #00f;
+    background-color: #eee;
+    font-family: Arial;
+    font-size: 20px;
